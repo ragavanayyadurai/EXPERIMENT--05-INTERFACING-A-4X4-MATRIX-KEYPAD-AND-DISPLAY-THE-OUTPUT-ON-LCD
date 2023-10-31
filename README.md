@@ -344,15 +344,15 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output screen shots of proteus  :
 #### BUTTON OFF
- <img src="https://github.com/Jenishajustin/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/119405070/bfbe6ed1-4371-4243-9578-cde9ddb5d18d" width=450 height=475>
+ <img src="https://github.com/Jenishajustin/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/119405070/bfbe6ed1-4371-4243-9578-cde9ddb5d18d" width=450 height=450>
 <br>
 
 #### BUTTON ON
-<img src="https://github.com/Jenishajustin/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/119405070/3e136179-550a-471a-ae6b-626230c32c8a" width=450 height=475>
+<img src="https://github.com/Jenishajustin/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/119405070/3e136179-550a-471a-ae6b-626230c32c8a" width=450 height=450>
 <br>
 
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- <img src="https://github.com/Jenishajustin/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/119405070/ac4b54b2-9e5e-43e5-9cc6-728bd87f6996" width=450 height=475>
+ <img src="https://github.com/Jenishajustin/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/119405070/ac4b54b2-9e5e-43e5-9cc6-728bd87f6996" width=450 height=450>
  <br>
  
 
